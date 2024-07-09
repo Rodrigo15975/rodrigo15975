@@ -18,7 +18,7 @@
   </a>
 </p>
 <hr/>
-<div style="display: flex gap: 2" >
+<div style="display: flex gap: 20" >
      <img src="https://raw.githubusercontent.com/github/explore/990a9efe0b9529eca38ca9e081bc7a97b18dff45/topics/zustand/zustand.png" style="width: 90px" />
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" style="width: 90px" />
 </div>
