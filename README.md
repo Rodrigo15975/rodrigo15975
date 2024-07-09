@@ -20,7 +20,7 @@
 <hr/>
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQdwzklGfBtvebOrhU6TzbSSWDnSxslVfZJA&s" style="width:10px , background:transparent" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQdwzklGfBtvebOrhU6TzbSSWDnSxslVfZJA&s" style="width:100px background:transparent" />
 
 <!--tech stack icons-->
 
