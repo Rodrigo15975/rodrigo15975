@@ -18,9 +18,6 @@
   </a>
 </p>
 
-<a href="https://skillicons.dev">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQdwzklGfBtvebOrhU6TzbSSWDnSxslVfZJA&s" />
-  </a>
 <hr/
 
 <!--tech stack icons-->
