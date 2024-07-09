@@ -18,7 +18,7 @@
   </a>
 </p>
 <hr/>
-    <img src="https://raw.githubusercontent.com/github/explore/990a9efe0b9529eca38ca9e081bc7a97b18dff45/topics/zustand/zustand.png" style="width: 80px" />
+    <img src="https://raw.githubusercontent.com/github/explore/990a9efe0b9529eca38ca9e081bc7a97b18dff45/topics/zustand/zustand.png" style="width: 100px" />
 
 
 
