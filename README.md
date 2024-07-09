@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
-<h3 align="center">Hello, I'm Rodrigo, a full stack software developer with knowledge of web and mobile applications. I specialize in React for the frontend and NestJS for the backend.</h3>
+<h3 align="center">Hello, I'm Rodrigo, a full stack software developer with knowledge of web and mobile applications(EXPO). I specialize in React for the frontend and NestJS for the backend.</h3>
 
 - 💬 Ask me about **React, NestJS**
 
