@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<hr/
+<hr/>
 
 <!--tech stack icons-->
 
