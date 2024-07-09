@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">Hello, I'm Rodrigo, a full stack software developer with knowledge of web and mobile applications(EXPO). I specialize in React for the frontend and NestJS for the backend.</h3>
 
-- 💬 Ask me about **React, NestJS**
-
 - 📫 How to reach me **rodrigorumpler@gmail.com**
+
+- 📫 Available to work**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
