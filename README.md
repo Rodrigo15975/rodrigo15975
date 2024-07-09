@@ -17,9 +17,10 @@
     <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,firebase,nestjs,postgresql,mongodb,git,tailwind,zustand" />
   </a>
 </p>
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQdwzklGfBtvebOrhU6TzbSSWDnSxslVfZJA&s" style="width:120px" />
 <hr/>
+
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQdwzklGfBtvebOrhU6TzbSSWDnSxslVfZJA&s" style="width:10px , background:transparent" />
 
 <!--tech stack icons-->
 
