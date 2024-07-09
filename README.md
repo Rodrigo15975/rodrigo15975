@@ -18,6 +18,6 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,firebase,git,github,docker,ts" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,firebase,git,github,docker,ts,figma,postgresql,nestjs" />
   </a>
 </p>
