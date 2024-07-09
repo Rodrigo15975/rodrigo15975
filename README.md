@@ -11,21 +11,14 @@
 <a href="https://linkedin.com/in/rodrigo-rumpler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo-rumpler" height="30" width="40" /></a>
 </p>
 
-<h2 >Frontend👨🏻‍💻</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vue" />
-  </a>
-</p>
+<h2 >Languages and Tools 👨🏻‍💻</h2>
 <hr/
-<h2 >Backend👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,firebase,ts,nestjs" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,fireba,nestjs,postgresql,mongodb,git" />
   </a>
 </p>
 <hr/
 
-<h2 >Database👨🏻‍💻</h2>
 <!--tech stack icons-->
 
