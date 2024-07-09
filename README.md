@@ -18,9 +18,9 @@
   </a>
 </p>
 <hr/>
+    <img src="[https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,firebase,nestjs,postgresql,mongodb,git,tailwind,zustand](https://raw.githubusercontent.com/github/explore/990a9efe0b9529eca38ca9e081bc7a97b18dff45/topics/zustand/zustand.png)" />
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQdwzklGfBtvebOrhU6TzbSSWDnSxslVfZJA&s" style="width:100px" style="border-radius: 500px" />
 
 <!--tech stack icons-->
 
