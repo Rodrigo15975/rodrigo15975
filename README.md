@@ -21,7 +21,7 @@
 <div style="display: flex">
      <img src="https://raw.githubusercontent.com/github/explore/990a9efe0b9529eca38ca9e081bc7a97b18dff45/topics/zustand/zustand.png" style="width: 80px" />
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" style="width: 80px" />
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7N0nzFOyhc4UHRTVcHT38EWGEkhkXEDJWRQ&s" style="width: 80px" style="height: 200px"  />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeTgWr8bzyCXEwxAE3ssmDM6cvl_GYgivQDg&s" style="width: 80px" style="height: 200px"  />
     
 </div>
 
