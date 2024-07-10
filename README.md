@@ -17,7 +17,7 @@
 <hr/
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vue3,firebase,nestjs,postgresql,mongodb,git,tailwind,prisma" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,firebase,nestjs,postgresql,mongodb,git,tailwind,prisma" />
   </a>
 </p>
 <hr/>
