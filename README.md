@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Javier</h1>
-<h3 align="center">Hello, I'm Javier a Software Engineer (Full-Stack)
+<h1 align="center">Hi 👋, I'm Rodrigo</h1>
+<h3 align="center">Hello, I'm Rodrigo a Software Engineer (Full-Stack)
 with knowledge in web and mobile applications. I specialize in React and NestJS. I also have experience working with AWS services and Terraform.</h3>
 
 - 📫 How to reach me **rodrigorumpler@gmail.com**
