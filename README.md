@@ -17,7 +17,7 @@
 <hr/
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nestjs,postgresql,mongodb,git,tailwind,prisma,docker,aws,go,redis,rabbitmq,kubernetes,terraform,kafka" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nestjs,postgresql,mongodb,git,tailwind,prisma,docker,aws,redis,rabbitmq,kubernetes,terraform,kafka" />
   </a>
 </p>
 <hr/>
