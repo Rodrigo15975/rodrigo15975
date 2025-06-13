@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Rodrigo</h1>
-<h3 align="center">Hello, I'm Rodrigo a Software Engineer (Full-Stack)
+<h1 align="center">Hi 👋, I'm Javier</h1>
+<h3 align="center">Hello, I'm Javier a Software Engineer (Full-Stack)
 with knowledge in web and mobile applications. I specialize in React and NestJS. I also have experience working with AWS services and Terraform.</h3>
 
-- 📫 How to reach me **rodrigorumpler@gmail.com**
+- 📫 How to reach me **javier.fullstack.qr@gmail.com**
 
 - 📫 Available to work**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rodrigo-rumpler-287989209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo-rumpler" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rodrigo-rumpler-287989209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Javier" height="30" width="40" /></a>
 </p>
 
-<a href="mailto:rodrigorumpler@gmail.com" target="blank" > <img src="https://img.icons8.com/?size=64&id=44829&format=png" style="width:40px" /> </a>
+<a href="mailto:javier.fullstack.qr@gmail.com" target="blank" > <img src="https://img.icons8.com/?size=64&id=44829&format=png" style="width:40px" /> </a>
 
 <h2 >Languages and Tools 👨🏻‍💻</h2>
 <hr/
